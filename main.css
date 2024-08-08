@@ -105,3 +105,23 @@ tr:nth-child(odd) {
   bottom: 0;
   width: 100%;
 }
+
+/* Additional Styles for Team Leader's Contributions */
+/* Header */
+.header {
+  background-color: darkcyan;
+  text-align: right;
+  padding: 10px;
+}
+
+.header img {
+  width: 200px;
+  height: 210px;
+}
+
+/* Hurdle Requirement Section */
+.hurdle-requirement {
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 10px;
+ 
